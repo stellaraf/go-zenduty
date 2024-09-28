@@ -1,0 +1,4 @@
+swagger*[.json,.yml,.yaml]
+spec*[.json,.yaml,.yml]
+*.env
+zenduty
